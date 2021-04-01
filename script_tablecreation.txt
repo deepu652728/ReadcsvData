@@ -1,0 +1,1 @@
+create table max_value(report_time datetime,client_device varchar(10),equip_id varchar(10)) COLLATE='latin1_swedish_ci'
